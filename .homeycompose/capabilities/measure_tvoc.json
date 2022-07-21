@@ -7,5 +7,5 @@
     "getable": true,
     "setable": false,
 	"insights" : true,
-    "icon": "assets/icons/capabilities/air_pollution.svg"
+    "icon": "assets/icons/capabilities/tvoc.svg"
 }
